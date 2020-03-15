@@ -1,0 +1,30 @@
+[33mtag v1.0[m
+Tagger: ‘admin’ <‘tashkovdenis@mail.ru’>
+Date:   Sun Mar 15 22:54:27 2020 +0300
+
+version 1.0
+
+[33mcommit bff9dc84af82afe33c9532c801673c0384f62b50[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;33mtag: show[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ‘admin’ <‘tashkovdenis@mail.ru’>
+Date:   Sun Mar 15 20:22:45 2020 +0300
+
+    first comment
+
+[1mdiff --git a/filerem.txt b/filerem.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/first.txt b/first.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..569fa90[m
+[1m--- /dev/null[m
+[1m+++ b/first.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m+[m
+[32m+[m[32masd[m
+\ No newline at end of file[m
+[1mdiff --git a/second.txt b/second.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/test/2.txt b/test/2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m

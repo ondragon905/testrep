@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 dfs+
 asddfsasdas
 asdfaf
+=======
++
+asd
+>>>>>>> bff9dc8... first comment
